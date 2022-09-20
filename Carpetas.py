@@ -1,6 +1,6 @@
 from distutils.command.sdist import sdist
 import os
-# os.mkdir('D:\{}'.format("Adios mundo"))
+os.mkdir('D:\{}'.format("Adios mundo"))
 materiasUnidades = {}
 
 def guardarNombres (nombreCarpetas, unidades):
